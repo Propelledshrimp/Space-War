@@ -1,6 +1,7 @@
 # Space-War
 
-#How to play: 
+## How to play: 
+
 Press ENTER on the keypad to start the game. 
 Use the left or right arrow keys to move your ship.
 Press space to shoot.
