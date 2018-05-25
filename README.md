@@ -5,7 +5,7 @@
 A screenshot of the start screen: 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/Propelledshrimp/Space-War/master/gameplay_screenshot.PNG "Logo Title Text 2"
+[logo]: https://raw.githubusercontent.com/Propelledshrimp/Space-War/master/start_screen_screenshot.PNG "Logo Title Text 2"
 
 Press ENTER on the keypad to start the game. 
 Use the left or right arrow keys to move your ship.
