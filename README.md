@@ -33,7 +33,7 @@ The boss takes a whopping 50 hits to kill! And fires frequently so get ready to 
 A screenshot of the boss:
 ![alt text][boss]
 
-[boss]:https://raw.githubusercontent.com/Propelledshrimp/Space-War/master/space-war/assets/images/boss1.png "boss"
+[boss]:https://raw.githubusercontent.com/Propelledshrimp/Space-War/master/space-war/assets/images/boss1.png "boss Title Text 6"
 Press R to restart the game after winning or losing. 
 
 ## Closing notes 
