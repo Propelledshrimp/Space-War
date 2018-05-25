@@ -11,9 +11,9 @@ Press ENTER on the keypad to start the game.
 Use the left or right arrow keys to move your ship.
 
 A screenshot of gameplay:
-![alt text][logo]
+![alt text][gameplay]
 
-[logo]: https://github.com/Propelledshrimp/Space-War/blob/master/gameplay_screenshot.PNG "Logo Title Text 3"
+[gameplay]: https://github.com/Propelledshrimp/Space-War/blob/master/gameplay_screenshot.PNG "gameplay Title Text 3"
 Press space to shoot.
 You can only take ten hits, or if you make contact with a mob the game will end.
 Mobs spawn in waves, at level 5 you will face a boss. 
