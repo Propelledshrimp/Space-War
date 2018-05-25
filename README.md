@@ -2,6 +2,11 @@
 
 ## How to play: 
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/Propelledshrimp/Space-War/blob/master/start_screen_screenshot.PNG "Logo Title Text 2"
+
 Press ENTER on the keypad to start the game. 
 Use the left or right arrow keys to move your ship.
 Press space to shoot.
