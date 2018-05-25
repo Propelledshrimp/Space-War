@@ -35,3 +35,9 @@ A screenshot of the boss:
 
 [boss]:https://github.com/Propelledshrimp/Space-War/blob/master/space-war/assets/images/boss1.png "boss Title Text 6"
 Press R to restart the game after winning or losing. 
+
+## Closing notes 
+This game was very fun to make and was the culmination of hard work in Mr.Cooper's class. 
+I cannot thank him enough for teaching me to code. Because of him I plan to major in Computer Science.  
+To you fellow nerds, learn how to code! It's fun! 
+- Tatem Pearson 
